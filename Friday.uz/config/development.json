@@ -1,0 +1,6 @@
+{
+  "port": 7000,
+  "jwt_key": "61db525b-a280-402b-8c47-9953a967cfaa",
+
+  "stripe_secret_key": "sk_test_51NawUaDCxX12C2e4STtVIJFzewmjrmYpg2lF3WmszYsxOgmqEHF23UJxrT352FnACnS9ATYvY3IZOlAhqoKCyfhy00CXx1XlPh"
+}
